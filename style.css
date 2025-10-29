@@ -1,7 +1,8 @@
 @font-face {
-    font-family:MinecraftTen ;
-    src: url("font/MinecraftTen-VGORe.ttf") format("ttf");
+    font-family: MinecraftTen;
+    src: url("font/MinecraftTen-VGORe.ttf") format("truetype");
 }
 .hello{
     font-family: MinecraftTen;
+    font-size: 30px;
 }
