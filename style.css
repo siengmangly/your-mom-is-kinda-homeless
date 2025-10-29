@@ -1,0 +1,7 @@
+@font-face {
+    font-family:MinecraftTen ;
+    src: url("font/MinecraftTen-VGORe.ttf") format("ttf");
+}
+.hello{
+    font-family: MinecraftTen;
+}
